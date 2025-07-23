@@ -1,12 +1,12 @@
 {
-  "version_code": 1,
-  "version_name": "1.0.0",
+  "version_code": 2,
+  "version_name": "1.1.0",
   "force_update": false,
   "min_supported_version": 1,
-  "download_url": "https://pan.baidu.com/s/1234567890abcdef",
-  "extract_code": "abc123",
-  "update_title": "🎉 新版本可用",
-  "update_content": "📱 版本 1.0.0 更新内容：\n\n✨ 新功能：\n• 优化聊天室连接稳定性\n• 新增消息全解密功能\n• 房间码改为4位大写字母\n\n🐛 修复问题：\n• 修复输入框位置重叠问题\n• 优化键盘适配体验\n• 提升整体性能\n\n💡 下载说明：\n1. 点击下载链接打开百度网盘\n2. 输入提取码下载APK\n3. 安装前请先卸载旧版本",
-  "release_date": "2025-01-22",
-  "file_size": "25.6MB"
+  "download_url": "https://pan.baidu.com/s/18Orp2NnvVUajARHT_35EHQ?pwd=fevt",
+  "extract_code": "fevt",
+  "update_title": "🎉 表情包制作器V2 更新",
+  "update_content": "📱 版本 1.1.0 - 便利性优化\n\n✨ 新功能：\n• 解密后图片自动保存功能\n• 解密成功后图片自动保存到本地相册\n• 新增大量随机表情包载体\n• 载体图片从9个扩展到42个\n\n🔧 优化改进：\n• 贴吧水印位置调整到左下角\n• 大幅降低表情包重复率\n• 提升加密内容隐蔽性\n• 优化用户操作体验\n• 无需手动保存解密图片\n\n💡 使用说明：\n解密成功后图片将自动保存至相册，可在系统相册中查看",
+  "release_date": "2025-01-23",
+  "file_size": "25.8MB"
 }
