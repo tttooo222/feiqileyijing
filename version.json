@@ -1,12 +1,12 @@
 {
-  "version_code": 3,
-  "version_name": "1.2.0",
+  "version_code": 4,
+  "version_name": "1.4.0",
   "force_update": false,
   "min_supported_version": 1,
-  "download_url": "https://pan.baidu.com/s/1h5QfoIuGOrQ_91B38ZvGtQ?pwd=jtxs",
-  "extract_code": " jtxs",
-  "update_title": "🎉 表情包制作器V2 更新",
-  "update_content": "📱 版本 1.2.0 - 便利性优化\n\n✨ 修复了大量BUG",
-  "release_date": "2025-07-25",
-  "file_size": "0.8MB"
+  "download_url": "https://pan.baidu.com/s/1YslzMWFXR7aRT2nRFhd2PA?pwd=nwy8",
+  "extract_code": "nwy8",
+  "update_title": "🎉 表情包制作器V7 更新",
+  "update_content": "📱 版本 1.4.0 - 便利性优化\n\n✨ 修复了大量BUG，修复了解密失败问题，若无法解密请立即更新",
+  "release_date": "2025-07-26",
+  "file_size": "1.8MB"
 }
